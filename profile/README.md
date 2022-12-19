@@ -1,12 +1,10 @@
-## Hi there 👋
+## Hi there 👋 This is eunomia-bpf project
 
-<!--
 
-**Here are some ideas to get you started:**
+`eunomia-bpf` is a dynamic loading library and some compile toolchains, aim to help you build and distribute eBPF programs easier. Some command line tools are also provided to help you build, distribute and run the eBPF programs.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We have 3 main features:
+
+- Write eBPF kernel code only with comments to build `CO-RE` libbpf eBPF applications
+- Compile and pack CO-RE eBPF kernel code to a config file, eg. `JSON` or `YAML` format
+- Write user space code for your eBPF program in `WebAssembly`, and  pack the program with a `WASM` module
