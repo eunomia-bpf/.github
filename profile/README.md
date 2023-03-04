@@ -7,4 +7,4 @@ We have 3 main features:
 
 - Write eBPF kernel code only with comments to build `CO-RE` libbpf eBPF applications
 - Compile and pack CO-RE eBPF kernel code to a config file, eg. `JSON` or `YAML` format
-- Write user space code for your eBPF program in `WebAssembly`, and  pack the program with a `WASM` module
+- Write user space code for your eBPF program in `WebAssembly`, and  pack the program with a `Wasm` module
