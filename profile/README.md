@@ -27,3 +27,9 @@ Want to learn more about eBPF? Checkout our eBPF developer tutorial and examples
 - "KEN: Kernel Extensions using Natural Language" at https://arxiv.org/abs/2312.05531
 - "bpftime: userspace eBPF Runtime for Uprobe, Syscall and Kernel-User Interactions" at https://arxiv.org/abs/2311.07923
 
+---
+
+Contact us:
+
+- Discord: [https://discord.gg/jvM73AFdB8](https://discord.gg/jvM73AFdB8)
+- Email: team@eunomia.dev
