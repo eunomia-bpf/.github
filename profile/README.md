@@ -1,6 +1,6 @@
 ## Hi there 👋 This is eunomia-bpf project
 
-eunomia lab is an organization oriented for exploring and improving the toolchains and runtimes for eBPF.
+eunomia is an organization oriented for exploring and improving the toolchains and runtimes for eBPF.
 
 Our projects include:
 
