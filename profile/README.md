@@ -4,7 +4,7 @@ eunomia is an organization oriented for exploring and improving the toolchains a
 
 Our projects include:
 
-- [bpftime](https://github.com/eunomia-bpf/bpftime): A userspace eBPF runtime. It offers rapid uprobe 10x faster than kernel uprobes, and syscall hook capabilities. It's compatible with kernel eBPF and existing eBPF toolchains, and can be injected into any running process without restart or manual recompilation. It can work with kernel eBPF or the eBPF runtime in other userspace processes.
+- [bpftime](https://github.com/eunomia-bpf/bpftime): bpftime is a High-Performance userspace eBPF runtime and General Extension Framework designed for userspace. You can extern eBPF to anywhere you want as a General Extension Framework, while compatible with current eBPF ecosystem. It enables faster Uprobe, USDT, Syscall hooks, XDP, and more event sources by bypassing the kernel and utilizing an optimized compiler like LLVM.
 - [Wasm-bpf](https://github.com/eunomia-bpf/wasm-bpf): Cooprated with [WaseEdge](https://github.com/WasmEdge/WasmEdge), we build the first user-space development library, toolchain, and runtime for general eBPF programs based on WebAssembly, allows lightweight Wasm sandboxes to deploy and control eBPF applications in k8s clusters.
 - [GPTtrace](https://github.com/eunomia-bpf/GPTtrace): The first tool generates eBPF programs and traces the Linux kernel through natural language. With our AI agents, it can produce correct eBPF programs on 80\%, while a baseline of GPT-4 is 30\%.
 - [eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf): A tool to help developers build, distribute and run eBPF programs easier with JSON and Webassembly OCI images
