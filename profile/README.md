@@ -6,7 +6,7 @@ Our projects include:
 
 - [bpftime](https://github.com/eunomia-bpf/bpftime): bpftime is a High-Performance userspace eBPF runtime and General Extension Framework designed for userspace. You can extern eBPF to anywhere you want as a *General Extension Framework*, while compatible with current eBPF ecosystem. It enables faster Uprobe, USDT, Syscall hooks, XDP, and more event sources by bypassing the kernel and utilizing an optimized compiler like LLVM.
 - [llvmbpf](https://github.com/eunomia-bpf/llvmbpf): Userspace eBPF VM with llvm JIT/AOT compiler. The core component for bpftime without application, event, maps support.
-- [Wasm-bpf](https://github.com/eunomia-bpf/wasm-bpf): Cooprated with [WaseEdge](https://github.com/WasmEdge/WasmEdge), we build the first user-space development library, toolchain, and runtime for general eBPF programs based on WebAssembly, allows lightweight Wasm sandboxes to deploy and control eBPF applications in k8s clusters.
+- [Wasm-bpf](https://github.com/eunomia-bpf/wasm-bpf): Cooprated with [WasmEdge](https://github.com/WasmEdge/WasmEdge), we build the first user-space development library, toolchain, and runtime for general eBPF programs based on WebAssembly, allows lightweight Wasm sandboxes to deploy and control eBPF applications in k8s clusters.
 - [GPTtrace](https://github.com/eunomia-bpf/GPTtrace): The first tool generates eBPF programs and traces the Linux kernel through natural language. With our AI agents, it can produce correct eBPF programs on 80\%, while a baseline of GPT-4 is 30\%.
 - [eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf): A tool to help developers build, distribute and run eBPF programs easier with JSON and Webassembly OCI images
 
