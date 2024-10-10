@@ -28,7 +28,7 @@ Want to learn more about eBPF? Checkout our eBPF developer tutorial and examples
 - "eunomia-bpf: Lightweight Development Framework for eBPF and Wasm" at [Apsara Conference 2022](https://www.alibabacloud.com/blog/eunomia-bpf-the-lightweight-development-framework-for-ebpf-and-webassembly-is-now-available_599688)
 - "Kgent: Kernel Extensions Large Language Model Agent" at [eBPF '24: Proceedings of the ACM SIGCOMM 2024 Workshop on eBPF and Kernel Extensions](https://dl.acm.org/doi/10.1145/3672197.3673434)
 - "bpftime: userspace eBPF Runtime for Uprobe, Syscall and Kernel-User Interactions" at https://arxiv.org/abs/2311.07923
-
+- "Code-Survey: An LLM-Driven Methodology for Analyzing Large-Scale Codebases" at https://arxiv.org/abs/2410.01837 and https://github.com/eunomia-bpf/code-survey
 ---
 
 Contact us:
