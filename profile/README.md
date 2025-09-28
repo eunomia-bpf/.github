@@ -24,6 +24,8 @@ For more interesting projects and details, please refer to our [website](https:/
 - "bpftime: Fast uprobes with user space BPF runtime" at [Linux Plumbers Conference 2023](https://lpc.events/event/17/abstracts/1741/)
 - "eBPF + Wasm: Lightweight Observability on Steroids" at [KubeCon North American 2023](https://sched.co/1R2uf) and also [Arxiv](https://arxiv.org/abs/2408.04856v1)
 - "eunomia-bpf: Lightweight Development Framework for eBPF and Wasm" at [Apsara Conference 2022](https://www.alibabacloud.com/blog/eunomia-bpf-the-lightweight-development-framework-for-ebpf-and-webassembly-is-now-available_599688)
+- "bpftime: userspace eBPF Runtime for Uprobe, Syscall and Kernel-User Interactions" at <https://arxiv.org/abs/2311.07923>
+- "Code-Survey: An LLM-Driven Methodology for Analyzing Large-Scale Codebases" at <https://arxiv.org/abs/2410.01837> and <https://github.com/eunomia-bpf/code-survey>
 
 ---
 
@@ -32,11 +34,6 @@ Want to learn more about eBPF? Checkout our eBPF developer tutorial and examples
 - Website: https://eunomia.dev/tutorials
 - Github code repo and examples: https://github.com/eunomia-bpf/bpf-developer-tutorial
 - Blogs: https://eunomia.dev/blogs/
-
-- "Kgent: Kernel Extensions Large Language Model Agent" at [eBPF '24: Proceedings of the ACM SIGCOMM 2024 Workshop on eBPF and Kernel Extensions](https://dl.acm.org/doi/10.1145/3672197.3673434)
-- "bpftime: userspace eBPF Runtime for Uprobe, Syscall and Kernel-User Interactions" at https://arxiv.org/abs/2311.07923
-- "Code-Survey: An LLM-Driven Methodology for Analyzing Large-Scale Codebases" at https://arxiv.org/abs/2410.01837 and https://github.com/eunomia-bpf/code-survey
----
 
 Contact us:
 
