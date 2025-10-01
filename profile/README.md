@@ -16,7 +16,7 @@ For more interesting projects and details, please refer to our [website](https:/
 
 ## News
 
-- The [ChainIO](https://github.com/eunomia-bpf/ChainIO) project is accepted in [eBPF workshop 25](https://dl.acm.org/doi/10.1145/3748355.3748371)!
+- The [ChainIO](https://github.com/eunomia-bpf/ChainIO) project is accepted in [eBPF workshop 25](https://dl.acm.org/doi/10.1145/3748355.3748371)! Thanks to Zheng Cao, Xuhang He, Yanpeng Hu, they did most of the work!
 - **Our Paper [Extending Applications Safely and Efficiently](https://www.usenix.org/conference/osdi25/presentation/zheng-yusheng) Got accepted by OSDI'25!**
 - "eBPF and Wasm: Unifying Userspace Extensions With Bpftime" at [KubeCon Europe 2025](https://sched.co/1txFJ)
 - "bpftime: Userspace eBPF Runtime for Network and Observability" at [eBPF summit 2024](https://ebpf.io/summit-2024-schedule/)
