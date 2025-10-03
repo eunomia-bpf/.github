@@ -1,4 +1,4 @@
-# Hi there 👋 This is eunomia-bpf project
+# Hi there 👋 This is eunomia lab
 
 eunomia is an organization oriented for exploring and improving the toolchains and runtimes for eBPF.
 
