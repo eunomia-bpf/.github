@@ -1,3 +1,6 @@
+
+**Please try to use the copilot to summary your PR. You don't need to fill all info below, just it can help giving your a checklist.**
+
 <!--# Pull Request Template-->
 
 ## Description
