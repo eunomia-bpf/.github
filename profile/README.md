@@ -16,6 +16,8 @@ For more interesting projects and details, please refer to our [website](https:/
 
 ## News
 
+- "Towards Agentic OS: An LLM Agent Framework for Linux Schedulers" at [MLforsystem workshop'25](https://arxiv.org/html/2509.01245v4)
+- "AgentSight: System-Level Observability for AI Agents Using eBPF" at [PACMI'25](https://dl.acm.org/doi/10.1145/3766882.3767169), the project is [https://github.com/eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agent-tracer)
 - The [ChainIO](https://github.com/eunomia-bpf/ChainIO) project is accepted in [eBPF workshop 25](https://dl.acm.org/doi/10.1145/3748355.3748371)! Thanks to Zheng Cao, Xuhang He, Yanpeng Hu, they did most of the work!
 - **Our Paper [Extending Applications Safely and Efficiently](https://www.usenix.org/conference/osdi25/presentation/zheng-yusheng) Got accepted by OSDI'25!**
 - "eBPF and Wasm: Unifying Userspace Extensions With Bpftime" at [KubeCon Europe 2025](https://sched.co/1txFJ)
