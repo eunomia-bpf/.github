@@ -1,6 +1,6 @@
-# Hi there 👋 This is eunomia lab
+# Eunomia Labs
 
-eunomia is an organization oriented for exploring and improving the toolchains and runtimes for eBPF.
+Eunomia Labs is an open-source systems lab building practical systems software and exploring programmable runtimes, eBPF, AI agents, and GPU systems.
 
 Our projects include:
 
