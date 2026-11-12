@@ -1,6 +1,6 @@
-# Eunomia
+# Eunomia Labs
 
-**Open-source eBPF systems community.**
+Eunomia Labs is an open-source systems lab building practical systems software and exploring programmable runtimes, eBPF, AI agents, and GPU systems.
 
 We build and maintain open-source systems around eBPF, including userspace runtimes, observability tools, AI agent infrastructure, developer tooling, and GPU/Linux systems work. We also explore new systems research and publish reproducible artifacts, tutorials, and technical writing.
 
